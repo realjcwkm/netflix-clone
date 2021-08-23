@@ -20,6 +20,7 @@ module.exports = {
     ],
     "rules": {
         "prettier/prettier": "warn",
-        "quotes": ["warn", "single"]
+        "quotes": ["warn", "single"],
+        "no-unused-vars": "warn",
     }
 };
